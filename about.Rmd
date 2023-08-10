@@ -9,3 +9,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 The website is constructed based on R markdown.
+
+![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% }
