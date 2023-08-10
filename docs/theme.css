@@ -41,8 +41,8 @@ All rows must end with a semi-colon.                      */
   
   html {
     /*-- Main font sizes --*/
-      --title-size:      50px;
-    --body-size:       1.06rem;
+      --title-size:      45px;
+    --body-size:       1.00rem;
     --code-size:       14px;
     --aside-size:      12px;
     --fig-cap-size:    13px;
@@ -70,7 +70,7 @@ All rows must end with a semi-colon.                      */
 /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
     --heading-size:    18px;
-    --contents-size:   13px;
+    --contents-size:   15px;
   }
 
 /*-- ARTICLE APPENDIX --*/
@@ -85,9 +85,9 @@ All rows must end with a semi-colon.                      */
   /* These properties only apply to Distill sites and blogs  */
   
   .distill-site-header {
-    --title-size:       18px;
+    --title-size:       20px;
     --text-color:       #AD0059;
-      --text-size:        15px;
+      --text-size:        16px;
     --hover-color:      black;
     --bkgd-color:       white;
   }

@@ -15,4 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
-Email: <peterxue1024@stu.pku.edu.cn>.
+Email: <peterxue1024@stu.pku.edu.cn>.  
+
+I'm Peter Xue, currently a master's student at Peking University HSBC Business School. I am from Shanghai, China. My Chinese name is 鎔荔(Rongli). 
+
+# Recent updates
+CV (available upon request)

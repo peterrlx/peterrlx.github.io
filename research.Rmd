@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Research interests
+
+labor economics, macroeconomics
+
+# Work in progress
+
+to be added.
