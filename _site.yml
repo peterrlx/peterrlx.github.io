@@ -1,20 +1,7 @@
-# name: "Peter Xue"
-# output_dir: 'docs'
-# output:
-#   html_document:
-#     theme: theme.css
-#     highlight: zenburn
-#     toc: true
-#     toc_depth: 2
-#     toc_float:
-#       collapsed: false
-
-
-name: "mywebsite"
-title: "My Website"
-theme: theme.css
+name: "peterrlx.github.io"
+title: "Peter Xue"
 description: |
-  My Website
+  Peter Xue
 output_dir: "docs"
 navbar:
   right:
@@ -22,6 +9,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "About Me"
-      href: aboutme.html
 output: distill::distill_article

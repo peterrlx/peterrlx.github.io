@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Peter Xue"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -15,3 +15,4 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
+
