@@ -6,10 +6,10 @@ title: "Research"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Research interests
+### Research interests
 
 labor economics, macroeconomics
 
-# Work in progress
+### Work in progress
 
 to be added.
