@@ -24,11 +24,7 @@
       url('../fonts/atma-v6-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
       url('../fonts/atma-v6-latin-600.svg#Atma') format('svg'); /* Legacy iOS */
   }
-/*Palatino*/
-@font-face {
-  font-family: "Palatino";
-  src: url("https://fontsforyou.com/fonts/p/Palatino.ttf");
-}
+
 
 /* base variables */
   
@@ -60,8 +56,7 @@ All rows must end with a semi-colon.                      */
     /*-- Specify custom fonts ~~~ must be imported above   --*/
       --heading-font:    Atma;
     --mono-font:       monospace;
-    /*--body-font:       sans-serif; */
-    --body-font:       Palatino;
+    --body-font:       sans-serif;
     --navbar-font:     Atma;  /* websites + blogs only */
   }
 
