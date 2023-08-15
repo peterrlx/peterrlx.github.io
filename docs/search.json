@@ -6,22 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nThe website is constructed by R markdown and CSS framework.\r\nSource: Getty Images - Big Sur\r\n\r\n\r\n",
-      "last_modified": "2023-08-16T01:01:13+08:00"
+      "last_modified": "2023-08-16T01:50:47+08:00"
     },
     {
       "path": "index.html",
       "title": "Peter Xue",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\nEmail: peterxue1024@stu.pku.edu.cn.\r\nI’m Peter Xue, currently a master’s student at Peking University HSBC Business School. I am from Shanghai, China. My Chinese name is 鎔荔(Rongli).\r\nRecent updates\r\nCV (available upon request)\r\nWriting sample (course term-papers)download\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-08-16T01:01:14+08:00"
+      "contents": "\r\nEmail: peterxue1024@stu.pku.edu.cn.\r\nHi, I’m Peter Xue. My Chinese name is 鎔荔(Rong-li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose.\r\nRecent updates\r\nFile\r\nStatus\r\nResume\r\ndownload\r\nWriting sample\r\ndownload\r\nCV, cover letter, etc.\r\navailable upon request (not public on this site)\r\nPersonal\r\nI have lived in Shanghai for more than 20 years (born and raised). In my spare time I like walking and exploring maps of big cities.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-16T01:50:49+08:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\nResearch interests\r\nlabor economics, macroeconomics\r\nWork in progress\r\nto be added.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-08-16T01:01:15+08:00"
+      "last_modified": "2023-08-16T01:50:50+08:00"
     }
   ],
   "collections": []
