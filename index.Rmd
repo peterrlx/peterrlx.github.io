@@ -21,3 +21,6 @@ I'm Peter Xue, currently a master's student at Peking University HSBC Business S
 
 # Recent updates
 CV (available upon request)
+
+
+test file  [Codecademy Docs](https://peterrlx.github.io/files/test.pdf) on Product Hunt!
