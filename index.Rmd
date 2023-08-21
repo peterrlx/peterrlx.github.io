@@ -29,5 +29,8 @@ Hi, I'm Peter Xue. My Chinese name is 鎔荔(Rong-li). Currently, I am a master 
 | Coding sample         | to be added |
 | CV, cover letter, etc. | available upon request (not public on this site)                                                                             |
 
-### Personal
-I have lived in Shanghai for more than 20 years (born and raised). In my spare time I like walking and exploring maps of big cities.
+<!-- ### Personal -->
+<!-- I have lived in Shanghai for more than 20 years (born and raised). In my spare time I like walking and exploring maps of big cities. -->
+
+
+
