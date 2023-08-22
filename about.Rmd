@@ -8,6 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+
+> “Progress, do not regress.”
+>
+> — Edward C. Prescott
+
+
+
+<br>
 The website is constructed by R markdown and CSS framework.
 
-![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% }
+![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% } 
+
+
+

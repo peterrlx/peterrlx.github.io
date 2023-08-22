@@ -5,14 +5,14 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\nThe website is constructed by R markdown and CSS framework.\r\nSource: Getty Images - Big Sur\r\n\r\n\r\n",
-      "last_modified": "2023-08-21T22:08:18+08:00"
+      "contents": "\r\n\r\n“Progress, do not regress.”\r\n— Edward C. Prescott\r\n\r\n\r\nThe website is constructed by R markdown and CSS framework.\r\nSource: Getty Images - Big Sur\r\n\r\n\r\n",
+      "last_modified": "2023-08-22T20:50:17+08:00"
     },
     {
       "path": "draft.html",
       "author": [],
       "contents": "\r\nRecent updates\r\nFile\r\nStatus\r\nResume\r\nto be added\r\nWriting sample\r\nsample1; sample2; sample3\r\nCoding sample\r\nto be added\r\nCV, cover letter, etc.\r\navailable upon request (not public on this site)\r\n",
-      "last_modified": "2023-08-21T22:08:19+08:00"
+      "last_modified": "2023-08-22T20:42:29+08:00"
     },
     {
       "path": "index.html",
@@ -20,14 +20,14 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\nEmail: peterxue1024@stu.pku.edu.cn.\r\nHi, I’m Peter Xue. My Chinese name is 鎔荔(Rong-li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose.\r\nRecent updates\r\nFile\r\nStatus\r\nResume\r\nto be added\r\nWriting sample\r\nsample1; sample2; sample3\r\nCoding sample\r\nto be added\r\nCV, cover letter, etc.\r\navailable upon request (not public on this site)\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-08-21T22:08:20+08:00"
+      "last_modified": "2023-08-22T20:42:31+08:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\nResearch interests\r\nlabor economics, macroeconomics\r\nWork in progress\r\nto be added.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-08-21T22:08:22+08:00"
+      "last_modified": "2023-08-22T20:42:32+08:00"
     }
   ],
   "collections": []
