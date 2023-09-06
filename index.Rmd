@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email}.
 
-Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose.
+<!-- Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose. -->
 
 ### Recent updates
 
@@ -33,7 +33,7 @@ Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a mast
 
 ### Research interests
 
-macroeconomics, labor economics, corporate finance.
+macroeconomics, labor market and financial frictions.
 
 ### Work in progress
 
