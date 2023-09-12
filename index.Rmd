@@ -25,7 +25,7 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 | Item              | description                                                                                                                    |
 |:---------------------------|:------------------------------------------|
 | Writing sample         | past course projects: <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample1</a>  |
-| Coding sample         | external link to be added (see readme.md for more details)|
+| Coding sample         | external link |
 
 
 <!-- ### Personal -->
