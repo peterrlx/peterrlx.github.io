@@ -22,18 +22,15 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 ### Recent updates
 
-| File              | Status                                                                                                                    |
+| Item              | description                                                                                                                    |
 |:---------------------------|:------------------------------------------|
-| Writing sample         | <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample1</a>  |
+| Writing sample         | past course projects: <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample1</a>  |
 | Coding sample         | to be added |
 
 
 <!-- ### Personal -->
 <!-- I have lived in Shanghai for more than 20 years (born and raised). In my spare time I like walking and exploring maps of big cities. -->
 
-### Research interests
-
-macroeconomics, labor market and financial frictions.
 
 ### Work in progress
 
