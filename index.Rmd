@@ -1,5 +1,5 @@
 ---
-title: "Peter Xue"
+title: "Rongli Xue"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+English name: Peter Xue    
 Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email}.
 
 <!-- Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose. -->
