@@ -6,28 +6,28 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nThe website is constructed by R markdown and CSS framework.\r\nSource: Getty Images - Big Sur\r\n\r\n\r\n",
-      "last_modified": "2023-09-18T21:39:01+08:00"
+      "last_modified": "2023-09-29T17:51:14+08:00"
     },
     {
       "path": "draft.html",
       "author": [],
       "contents": "\r\nRecent updates\r\nFile\r\nStatus\r\nResume\r\nto be added\r\nWriting sample\r\nsample1; sample2; sample3\r\nCoding sample\r\nto be added\r\nCV, cover letter, etc.\r\navailable upon request (not public on this site)\r\n",
-      "last_modified": "2023-09-18T21:39:01+08:00"
+      "last_modified": "2023-09-29T17:51:15+08:00"
     },
     {
       "path": "index.html",
       "title": "Rongli Xue",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\nEnglish name: Peter Xue\r\nEmail: peterxue1024@stu.pku.edu.cn.\r\n\r\nRecent updates\r\nItem\r\ndescription\r\nWriting sample\r\npast course projects: sample1\r\nCoding sample\r\nexternal link\r\nWork in progress\r\nto be added.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-18T21:39:03+08:00"
+      "contents": "\r\nEnglish name: Peter Xue\r\nEmail: peterxue1024@stu.pku.edu.cn.\r\n\r\nRecent updates\r\nItem\r\ndescription\r\nWriting sample\r\npast course projects: sample1, sample2\r\nCoding sample\r\nexternal link\r\nWork in progress\r\nto be added.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-29T17:51:17+08:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\nResearch interests\r\nlabor economics, macroeconomics\r\nWork in progress\r\nto be added.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-18T21:39:04+08:00"
+      "last_modified": "2023-09-29T17:51:20+08:00"
     }
   ],
   "collections": []
