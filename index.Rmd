@@ -26,7 +26,7 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 | Item              | description                                                                                                                    |
 |:---------------------------|:------------------------------------------|
 | Writing sample         | past course projects: <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample1</a>, <a href="https://drive.google.com/file/d/1GPvjEODmJtdpk71JMkg0Q2NuG8-VcVHR/view?usp=drive_link" target="_blank">sample2</a> |
-| Coding sample         | external link |
+| Coding sample         | <a href="https://github.com/peterrlx/sample_code" target="_blank">external link</a> |
 
 
 <!-- ### Personal -->
@@ -35,5 +35,17 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 ### Work in progress
 
-to be added.
+- **"'Iron rice bowl' and earnings differentials in China", 2023.**
+&nbsp;
 
+Abstract: I combine China’s national urban household survey (UHS) data with income tax and social security contribution rule from 1986-2014 to study the labor earning outcomes of "iron rice bowl" (IRB) workers (those who work in in government or communist party organizations, public institutions, and state-owned enterprises). 
+
+Annual labor earning distribution |  Annual labor earning by age
+:-------------------------:|:-------------------------:
+![](images/Graph1.jpg){height=70% width=95% }   |  ![](images/Graph2.jpg){height=70% width=95% } 
+
+
+- **"Financial frictions, work effort, and labor market fluctuations", 2023.**
+&nbsp;
+
+Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data.
