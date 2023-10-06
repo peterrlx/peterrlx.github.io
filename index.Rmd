@@ -38,7 +38,7 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 - **"'Iron rice bowl' and earnings differentials in China", 2023.**
 &nbsp;
 
-Abstract: I combine China’s national urban household survey (UHS) data with income tax and social security contribution rule from 1986-2014 to study the labor earning outcomes of "iron rice bowl" (IRB) workers (those who work in in government or communist party organizations, public institutions, and state-owned enterprises). 
+Abstract: I combine China’s national urban household survey (UHS) data with income tax and social security contribution rule from 1986-2014 to study the labor earning outcomes of "iron rice bowl" (IRB) workers (i.e., state-employed workers in government or communist party organizations, public institutions, or state-owned enterprises with low unemployment risk). 
 
 Annual labor earning distribution |  Annual labor earning by age
 :-------------------------:|:-------------------------:
