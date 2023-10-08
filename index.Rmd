@@ -45,7 +45,7 @@ Annual labor earning distribution |  Annual labor earning by age
 ![](images/Graph1.jpg){height=70% width=95% }   |  ![](images/Graph2.jpg){height=70% width=95% } 
 
 
-- **"Financial frictions, work effort, and labor market fluctuations", 2023.**
-&nbsp;
+<!-- - **"Financial frictions, work effort, and labor market fluctuations", 2023.** -->
+<!-- &nbsp; -->
 
-Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data.
+<!-- Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data. -->
