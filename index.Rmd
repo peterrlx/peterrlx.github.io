@@ -21,11 +21,11 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 <!-- Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose. -->
 
-### Recent updates
+
 
 | Item              | description                                                                                                                    |
 |:---------------------------|:------------------------------------------|
-| Past course/thesis projects:         |  <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample1</a>, <a href="https://drive.google.com/file/d/1GPvjEODmJtdpk71JMkg0Q2NuG8-VcVHR/view?usp=drive_link" target="_blank">sample2</a>, sample 3 to be added |
+| Past course/thesis projects:         |  <a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">sample1</a>, <a href="https://drive.google.com/file/d/1GPvjEODmJtdpk71JMkg0Q2NuG8-VcVHR/view?usp=drive_link" target="_blank">sample2</a>, <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample3</a>, |
 | Coding sample         | <a href="https://github.com/peterrlx/sample_code" target="_blank">external link</a> |
 
 
@@ -34,6 +34,13 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 
 ### Work in progress
+
+- **"Financial frictions, work effort, and labor market fluctuations", 2023.** <a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">simplified model (to be added)</a>
+&nbsp;
+
+Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort (determined by Nash bargaining) though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data.
+
+
 
 - **"'Iron rice bowl' and earnings differentials in China", 2023.**
 &nbsp;
@@ -45,7 +52,4 @@ Annual labor earning distribution |  Annual labor earning by age
 ![](images/Graph1.jpg){height=70% width=95% }   |  ![](images/Graph2.jpg){height=70% width=95% } 
 
 
-- **"Financial frictions, work effort, and labor market fluctuations", 2023.**
-&nbsp;
 
-Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort (determined by Nash bargaining) though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data.
