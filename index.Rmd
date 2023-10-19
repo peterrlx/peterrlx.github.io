@@ -23,11 +23,6 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 
 
-| Item              | description                                                                                                                    |
-|:---------------------------|:------------------------------------------|
-| Past course/thesis projects:         |  <a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">sample1</a>, <a href="https://drive.google.com/file/d/1GPvjEODmJtdpk71JMkg0Q2NuG8-VcVHR/view?usp=drive_link" target="_blank">sample2</a>, <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample3</a>, |
-| Coding sample         | <a href="https://github.com/peterrlx/sample_code" target="_blank">external link</a> |
-
 
 <!-- ### Personal -->
 <!-- I have lived in Shanghai for more than 20 years (born and raised). In my spare time I like walking and exploring maps of big cities. -->
@@ -35,10 +30,11 @@ Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email
 
 ### Work in progress
 
-- **"Financial frictions, work effort, and labor market fluctuations", 2023.** <a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">simplified model (to be added)</a>
+- **"Financial frictions, work effort, and labor market fluctuations", 2023.**   
+<a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">model (to be added)</a>
 &nbsp;
 
-Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort (determined by Nash bargaining) though they are randomly matched to firms that are able to decide vacancy postings. I calibrate the model by using U.S. quarterly data.
+Abstract: I study how financial frictions and work effort affect labor market fluctuations in a dynamic general equilibrium model with standard DMP-type labor market frictions. Firms are subject to investment adjustment costs and limited enforcement constraints while workers are allowed to endogenize their labor effort (through Nash bargaining) though they are randomly matched to firms that are able to decide vacancy postings. I judge the model against quarterly U.S. data. With credit and productivity shocks, by calibration and simulation, I am able to compare data statistics with model predictions under different scenarios by switching on and off different channels separately (e.g., with vs. without financial frictions, fixed vs. bargained effort, flexible vs. sticky wages etc.).
 
 
 
@@ -52,4 +48,9 @@ Annual labor earning distribution |  Annual labor earning by age
 ![](images/Graph1.jpg){height=70% width=95% }   |  ![](images/Graph2.jpg){height=70% width=95% } 
 
 
+### Others
 
+| Item              | description                                                                                                                    |
+|:---------------------------|:------------------------------------------|
+| Past course/thesis projects:         |  <a href="https://drive.google.com/file/d/1G_X22uu-9QdNE50H_QW9FrLMKLe4KOkv/view?usp=sharing" target="_blank">sample1</a>, <a href="https://drive.google.com/file/d/1GPvjEODmJtdpk71JMkg0Q2NuG8-VcVHR/view?usp=drive_link" target="_blank">sample2</a>, <a href="https://drive.google.com/file/d/19asOzVFF6qKCUHThvbtT5yT3xn3VPeSi/view?usp=sharing" target="_blank">sample3</a>, |
+| Coding sample         | <a href="https://github.com/peterrlx/sample_code" target="_blank">external link</a> |
