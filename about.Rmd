@@ -7,12 +7,14 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+<base target="_blank">
 
 The website is constructed by R markdown and CSS framework.
 
 
 ### Test files
+
+[Open in a new tab](./files/sticky_wages.pdf)
 
 ![sticky wages](./files/sticky_wages.pdf){height=300% width=95% } 
 
@@ -21,7 +23,11 @@ The website is constructed by R markdown and CSS framework.
 
 <br> 
 <br> 
-<br> 
+<br>
+
+
+
+
 <br> 
 <br> 
 <br> 
