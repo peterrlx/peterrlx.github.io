@@ -11,7 +11,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The website is constructed by R markdown and CSS framework.
 
-![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% } 
 
+### Test files
+
+![sticky wages](./files/sticky_wages.pdf){height=300% width=95% } 
+
+
+
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
+
+![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% } 
 
 
