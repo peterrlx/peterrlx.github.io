@@ -13,3 +13,5 @@ navbar:
     - text: "About"
       href: about.html
 output: distill::distill_article
+include:
+      in_header: google.html
