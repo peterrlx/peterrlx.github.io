@@ -3,11 +3,10 @@ title: "Rongli Xue"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
-output:
-  html_document:
-    includes:
-      in_header: aa.html
-
+output: 
+  distill::distill_article:
+  includes:
+    in_header: aa.html
 ---
 
 ```{r setup, include=FALSE}
