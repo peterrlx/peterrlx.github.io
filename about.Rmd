@@ -14,31 +14,14 @@ The website is constructed by R markdown and CSS framework.
 
 ### Test files
 
-[Open in a new tab](./files/sticky_wages.pdf)
+<!-- [Open in a new tab](./files/sticky_wages.pdf) -->
 
-![sticky wages](./files/sticky_wages.pdf){height=300% width=95% } 
+<!-- ![sticky wages](./files/sticky_wages.pdf){height=300% width=95% }  -->
 
-
-
-
-<br> 
-<br> 
-<br>
-
-
+replication of Garin (2015), JEDC: <a href="https://drive.google.com/file/d/1Hwpb-SjchS4uyfVTnGunbu2WcUYhesEH/view?usp=sharing" target="_blank">link</a>
 
 
 <br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-
 
 ![Source: Getty Images - Big Sur](images/image.jpg){height=60% width=70% } 
 
