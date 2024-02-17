@@ -16,9 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-English name: Peter Xue    
-Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email}.
-
+English name: Peter     
+Email: [peterxue1024\@stu.pku.edu.cn](mailto:peterxue1024@stu.pku.edu.cn){.email}.  
+<a href="https://drive.google.com/file/d/1IILKykWhf6Ob8InMG-kns_kveMLQUNeC/view?usp=sharing" target="_blank">CV</a>
 <!-- Hi, I'm Peter RL Xue. My Chinese name is 鎔荔(Rong-Li). Currently, I am a master student in Economics at Peking University HSBC Business School (expected to graduate in July 2024) and applying to PhD programs/RA positions. I built the website for application purpose. -->
 
 
