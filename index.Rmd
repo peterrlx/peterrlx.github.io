@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-[My new website!](https://sites.google.com/view/peterxue)
+[Click to visit my new website!](https://sites.google.com/view/peterxue)
 
 
