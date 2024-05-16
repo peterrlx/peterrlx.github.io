@@ -1,7 +1,6 @@
 ---
-title: "Rongli Xue"
+title: "Github Page"
 description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -16,6 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-[Click to visit my new website!](https://sites.google.com/view/peterxue)
+My personal website is here: https://sites.google.com/view/peterxue
+
+
+<!-- [My personal website is here:](https://sites.google.com/view/peterxue) -->
 
 

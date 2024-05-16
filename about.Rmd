@@ -1,7 +1,6 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About"
+description: 
 ---
 
 ```{r setup, include=FALSE}
@@ -9,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 <base target="_blank">
 
-The website is constructed by R markdown and CSS framework.
+<!-- The page is constructed by R markdown and CSS framework. -->
 
 
 ### Test files
